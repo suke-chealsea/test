@@ -16,3 +16,5 @@ centosから確認
 centos suke-testから確認
 
 suke-testからissueで議論したものをpush
+
+branchをきってpull requestを送ります。
