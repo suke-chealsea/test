@@ -12,3 +12,5 @@ git hubの勉強を勉強する理由は2つあります。
 もう一度
 
 centosから確認
+
+centos suke-testから確認
